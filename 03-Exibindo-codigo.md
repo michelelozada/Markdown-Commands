@@ -1,16 +1,16 @@
-**Exibindo trechos de código via linguagem Markdown**    
+Exibindo trechos de código via linguagem Markdown      
 Repositório: Comandos Markdown  
 GitHub: @michelelozada  
-&nbsp;
-&nbsp;
+    
+  
 **1 - Para exibição de um trecho de código:**  
 Marcação:  
 ``Caso você deseje imprimir um trecho de código, `você deve envolver o código utilizando esta marcação`.``    
 
 Output:  
 Caso você deseje imprimir um trecho de código, `você deve envolver o código utilizando esta marcação`.  
-&nbsp;
-&nbsp;
+  
+  
 **2 - Para exibição de um bloco de código:**  
 Marcação:  
 Utilize o mesmo procedimento acima, mas agora envolva o bloco de código entre o sinais: ```  
