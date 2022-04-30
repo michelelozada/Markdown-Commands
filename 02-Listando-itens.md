@@ -3,8 +3,8 @@ Repositório: Comandos Markdown
 GitHub: @michelelozada    
   
   
-**1 - Lista numerada (aka listas ordenadas):**  
-Marcação:
+**1. Lista numerada (aka listas ordenadas):**  
+. marcação  
 ```
 Lista:
    1. Primeiro item 
@@ -12,15 +12,15 @@ Lista:
    1. Terceiro item 
 ```
 
-Output:  
+. output  
 Lista:
    1. Primeiro item 
    2. Segundo item 
    3. Terceiro item    
   
    
-**2 - Lista de marcadores (aka listas não ordenadas):**  
-Marcação:  
+**2. Lista de marcadores (aka listas não ordenadas):**  
+. marcação    
 ```
 Lista:
    * Primeiro item 
@@ -33,20 +33,20 @@ ou
 Lista:
    - Primeiro item 
    - Segundo item
-   - Terceito item
+   - Terceiro item
 ```
   
-Output:  
+. output    
 Lista:
    * Primeiro item 
    * Segundo item
-   * Terceito item
+   * Terceiro item
      
   
-**3 - Listas com subitens:**  
-(Obs: Apenas para listas de marcadores)  
+**3. Listas com subitens:**  
+*(Obs: Apenas para listas de marcadores)*  
 
-Marcação:  
+. marcação:    
 ```
 Lista:
 - Primeiro item 
@@ -58,7 +58,7 @@ Lista:
 - Terceiro item 
 ```
   
-Output:  
+. output:  
 Lista:
 - Primeiro item 
 	- Primeiro subitem
