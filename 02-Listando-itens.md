@@ -1,11 +1,10 @@
----  
-**Listando itens via linguagem Markdown**  
+**Listando itens via linguagem Markdown**    
 Repositório: Comandos Markdown  
 GitHub: @michelelozada  
----   
-
+&nbsp;
+&nbsp;
 **1 - Lista numerada (aka listas ordenadas):**  
-*Marcação:*  
+Marcação:
 ```
 Lista:
    1. Primeiro item 
@@ -13,15 +12,15 @@ Lista:
    1. Terceiro item 
 ```
 
-*Output:*  
+Output:  
 Lista:
    1. Primeiro item 
    2. Segundo item 
    3. Terceiro item    
-   
-   
+&nbsp;
+&nbsp;
 **2 - Lista de marcadores (aka listas não ordenadas):**  
-*Marcação:*  
+Marcação:  
 ```
 Lista:
    * Primeiro item 
@@ -37,17 +36,17 @@ Lista:
    - Terceito item
 ```
 
-*Output:*  
+Output:  
 Lista:
    * Primeiro item 
    * Segundo item
    * Terceito item
-   
-
+&nbsp;   
+&nbsp;
 **3 - Listas com subitens:**  
 (Obs: Apenas para listas de marcadores)  
 
-*Marcação:*  
+Marcação:  
 ```
 Lista:
 - Primeiro item 
@@ -59,7 +58,7 @@ Lista:
 - Terceiro item 
 ```
 
-*Output:*  
+Output:  
 Lista:
 - Primeiro item 
 	- Primeiro subitem
