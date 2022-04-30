@@ -4,7 +4,6 @@ GitHub: @michelelozada
 &nbsp;
      
 &nbsp;
-  
 **1. Lista numerada (aka listas ordenadas):**  
 . marcação  
 ```
@@ -19,8 +18,9 @@ Lista:
    1. Primeiro item 
    2. Segundo item 
    3. Terceiro item    
-  
-   
+&nbsp;
+     
+&nbsp;  
 **2. Lista de marcadores (aka listas não ordenadas):**  
 . marcação    
 ```
@@ -43,8 +43,9 @@ Lista:
    * Primeiro item 
    * Segundo item
    * Terceiro item
+&nbsp;
      
-  
+&nbsp;     
 **3. Listas com subitens:**  
 *(Obs: Apenas para listas de marcadores)*  
 

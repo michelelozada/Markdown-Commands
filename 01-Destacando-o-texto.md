@@ -22,7 +22,6 @@ Há duas alternativas para aplicar itálico a um texto: esta é a *primeira mane
 &nbsp;
      
 &nbsp;
-
 **3. Aplicação de negrito com itálico:**  
 . marcação  
 `A ênfase acima ainda não foi suficiente? Então basta usar ***este marcador aqui*** para aplicar simultaneamente negrito e itálico.`

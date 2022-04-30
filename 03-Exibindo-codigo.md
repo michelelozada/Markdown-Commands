@@ -4,7 +4,6 @@ GitHub: @michelelozada
 &nbsp;
      
 &nbsp;    
-  
 **1. Para exibição de um trecho de código:**  
 . marcação  
 ``Caso você deseje imprimir um trecho de código, `você deve envolver o código utilizando esta marcação`.``    
@@ -14,7 +13,6 @@ Caso você deseje imprimir um trecho de código, `você deve envolver o código 
 &nbsp;
      
 &nbsp; 
-  
 **2. Para exibição de um bloco de código:**  
 . marcação    
 Utilize o mesmo procedimento acima, mas agora envolva o bloco de código entre o sinais: ```  
