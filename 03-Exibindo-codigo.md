@@ -1,9 +1,9 @@
-Exibindo trechos de código via linguagem Markdown      
+Exibindo trechos de código via linguagem Markdown    
 Repositório: Comandos Markdown  
-GitHub: @michelelozada  
+GitHub: @michelelozada    
 &nbsp;
      
-&nbsp;    
+&nbsp;
 **1. Para exibição de um trecho de código:**  
 . marcação  
 ``Caso você deseje imprimir um trecho de código, `você deve envolver o código utilizando esta marcação`.``    

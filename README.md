@@ -1,9 +1,6 @@
 # Comandos Markdown
  
 Repositório em andamento com a sintaxe básica da linguagem de marcação Markdown. 
-&nbsp;
-     
-&nbsp;
 
 Script | Descrição 
 :---: | :---
