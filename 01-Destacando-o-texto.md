@@ -11,20 +11,20 @@ Há duas alternativas para aplicar negrito a um texto: esta é a **primeira mane
 
 **2 - Aplicação de itálico:**  
 Marcação:   
-`Há duas alternativas para aplicar itálico a um texto: : esta é a *primeira maneira*; já esta, é a _segunda maneira_.`
+`Há duas alternativas para aplicar itálico a um texto: esta é a *primeira maneira*; já esta, é a _segunda maneira_.`
 
 Output:  
-Há duas alternativas para aplicar itálico a um texto: : esta é a *primeira maneira*; já esta, é a _segunda maneira_.    
+Há duas alternativas para aplicar itálico a um texto: esta é a *primeira maneira*; já esta, é a _segunda maneira_.    
 
 
 **3 – Aplicação de negrito com itálico:**  
 Marcação:  
-`A ênfase acima ainda não foi suficiente? Então basta usar ***este marcador aqui*** para aplicar simultamente negrito e itálico.`
+`A ênfase acima ainda não foi suficiente? Então basta usar ***este marcador aqui*** para aplicar simultaneamente negrito e itálico.`
 
 Output:  
-A ênfase acima ainda não foi suficiente? Então basta usar ***este marcador aqui*** para aplicar simultamente negrito e itálico.    
+A ênfase acima ainda não foi suficiente? Então basta usar ***este marcador aqui*** para aplicar simultaneamente negrito e itálico.    
 
-**4 – Sublinhando um texto:**  
+**4 – Tachando um texto:**  
 Marcação:  
 `Também é possível tachar um texto, ~~basta somente utilizar esta marcação aqui~~.`
 
