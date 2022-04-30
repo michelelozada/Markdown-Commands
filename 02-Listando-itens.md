@@ -1,7 +1,9 @@
 Listando itens via linguagem Markdown    
 Repositório: Comandos Markdown  
 GitHub: @michelelozada    
-  
+&nbsp;
+     
+&nbsp;
   
 **1. Lista numerada (aka listas ordenadas):**  
 . marcação  
