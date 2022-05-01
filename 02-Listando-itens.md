@@ -3,7 +3,7 @@ Repositório: Comandos Markdown
 GitHub: @michelelozada    
 &nbsp;
      
-&nbsp;
+&nbsp; 
 **1. Lista numerada (aka listas ordenadas):**  
 . marcação  
 ```
@@ -20,7 +20,7 @@ Lista:
    3. Terceiro item    
 &nbsp;
      
-&nbsp;  
+&nbsp;
 **2. Lista de marcadores (aka listas não ordenadas):**  
 . marcação    
 ```
@@ -46,7 +46,7 @@ Lista:
 &nbsp;
      
 &nbsp;     
-**3. Listas com subitens:**  
+**3. Listas aninhadas:**  
 *(Obs: Apenas para listas de marcadores)*  
 
 . marcação:    
@@ -57,7 +57,8 @@ Lista:
 	- Segundo subtitem
 - Segundo item 
 	- Primeiro subitem
-	- Segundo subtitem
+		- Primeiro subsubtitem
+		- Segundo subsubtitem
 - Terceiro item 
 ```
   
@@ -68,5 +69,22 @@ Lista:
 	- Segundo subtitem
 - Segundo item 
 	- Primeiro subitem
-	- Segundo subtitem
-- Terceiro item
+		- Primeiro subsubtitem
+		- Segundo subsubtitem
+- Terceiro item 
+&nbsp;
+     
+&nbsp;     
+**4. Lista de tarefas:**  
+. marcação:   
+```
+Tarefas a realizar
+- [x] Revisar o código
+- [ ] Criar o repositório no GH
+- [ ] Enviar arquivos para o GH
+```
+. output:  
+Tarefas a realizar
+- [x] Revisar o código
+- [ ] Criar o repositório no GH
+- [ ] Enviar arquivos para o GH

@@ -6,17 +6,23 @@ GitHub: @michelelozada
 &nbsp;
 **1. Para exibição de um trecho de código:**  
 . marcação  
-``Caso você deseje imprimir um trecho de código, `você deve envolver o código utilizando esta marcação`.``    
+``Caso deseje imprimir um trecho de código, `você deve envolver o código utilizando esta marcação`.``    
 
 . output  
-Caso você deseje imprimir um trecho de código, `você deve envolver o código utilizando esta marcação`.  
+Caso deseje imprimir um trecho de código, `você deve envolver o código utilizando esta marcação`.  
 &nbsp;
      
 &nbsp; 
 **2. Para exibição de um bloco de código:**  
 . marcação    
-Utilize o mesmo procedimento acima, mas agora envolva o bloco de código entre o sinais: ```  
-
+<pre>
+```
+A marcação assim utilizada
+faz com que o bloco de código
+multilinhas
+seja assim exibido
+```  
+</pre>
 . output    
 ````
 A marcação assim utilizada
