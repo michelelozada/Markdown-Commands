@@ -4,8 +4,9 @@ GitHub: @michelelozada
 &nbsp;
      
 &nbsp; 
-**1. Tabela padrão *:  
-(alinhamento default é centralizado)   
+**1. Tabela padrão:**  
+*(alinhamento default é centralizado)*  
+
 . marcação  
 ```
 | Tipo    | Sabor   | R$/kg  |
