@@ -5,7 +5,7 @@ GitHub: @michelelozada
      
 &nbsp; 
 **1. Tabela padrão:**  
-*(alinhamento default é centralizado)*  
+*(Alinhamento default é centralizado)*  
 
 . marcação  
 ```

@@ -5,7 +5,8 @@ GitHub: @michelelozada
      
 &nbsp; 
 **1. Adicionando uma imagem:**  
-(O espaço para texto, entre as chaves, refere-se ao texto altenartivo)  
+*(O espaço para texto, entre os colchetes, refere-se ao texto altenartivo)*  
+
 . marcação:  
 ```
 ![Na imagem: aparece o Octocat, o mascote do GitHub.](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
@@ -15,7 +16,7 @@ GitHub: @michelelozada
 &nbsp;
      
 &nbsp;
-**2. Adicionando um emoji:**  
+**2. Adicionando emojis:**  
 . marcação:  
 ```
 Estudando a tarde inteira! :computer: :open_book: :coffee:
