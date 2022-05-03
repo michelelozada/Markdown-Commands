@@ -10,3 +10,4 @@ Script | Descrição
 04 | [Adicionando links](https://github.com/michelelozada/Comandos-Markdown/blob/main/04-Adicionando-links.md)
 05 | [Incluindo imagens e emojis](https://github.com/michelelozada/Comandos-Markdown/blob/main/05-Incluindo-imagens.md)
 06 | [Gerando tabelas](https://github.com/michelelozada/Comandos-Markdown/blob/main/06-Gerando-tabelas.md)
+07 | [Aplicando títulos](https://github.com/michelelozada/Comandos-Markdown/blob/main/07-Aplicando-titulos.md)

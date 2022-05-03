@@ -1,13 +1,14 @@
-Gerando tabelas via linguagem Markdown    
-Repositório: Comandos Markdown  
-GitHub: @michelelozada    
+> Gerando tabelas via linguagem Markdown    
+> Repositório: Comandos Markdown  
+> GitHub: @michelelozada
 &nbsp;
      
-&nbsp; 
-**1. Tabela padrão:**  
-*(Alinhamento default é centralizado)*  
+&nbsp;     
+**1. Tabela padrão**  
+---
+*Obs: O alinhamento default aqui é centralizado*  
 
-. marcação  
+###### >> marcação 
 ```
 | Tipo    | Sabor   | R$/kg  |
 | ------  | -----   | -----  |
@@ -16,7 +17,7 @@ GitHub: @michelelozada
 | Ravioli | Frango  | 48,90  |
 | Ravioli | Ricota  | 47,90  |
 ```
-. output  
+###### >> output 
 | Tipo    | Sabor   | R$/kg  |
 | ------  | -----   | -----  |
 | Lasagna | Carne   | 52,90  |

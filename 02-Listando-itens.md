@@ -1,11 +1,12 @@
-Listando itens via linguagem Markdown    
-Repositório: Comandos Markdown  
-GitHub: @michelelozada    
+> Listando itens via linguagem Markdown    
+> Repositório: Comandos Markdown  
+> GitHub: @michelelozada
 &nbsp;
      
-&nbsp; 
-**1. Lista numerada (aka listas ordenadas):**  
-. marcação  
+&nbsp;     
+**1. Lista numerada (aka listas ordenadas)**  
+---
+###### >> marcação   
 ```
 Lista:
    1. Primeiro item 
@@ -13,16 +14,17 @@ Lista:
    1. Terceiro item 
 ```
 
-. output  
+###### >> output
 Lista:
    1. Primeiro item 
    2. Segundo item 
    3. Terceiro item    
 &nbsp;
      
-&nbsp;
-**2. Lista de marcadores (aka listas não ordenadas):**  
-. marcação    
+&nbsp;    
+**2. Lista de marcadores (aka listas não ordenadas)**  
+---
+###### >> marcação  
 ```
 Lista:
    * Primeiro item 
@@ -38,7 +40,7 @@ Lista:
    - Terceiro item
 ```
   
-. output    
+###### >> output 
 Lista:
    * Primeiro item 
    * Segundo item
@@ -46,10 +48,11 @@ Lista:
 &nbsp;
      
 &nbsp;     
-**3. Listas aninhadas:**  
-*(Obs: Apenas para listas de marcadores)*  
+**3. Listas aninhadas**  
+---
+*Obs: Apenas para listas de marcadores*  
 
-. marcação:    
+###### >> marcação   
 ```
 Lista:
 - Primeiro item 
@@ -62,7 +65,7 @@ Lista:
 - Terceiro item 
 ```
   
-. output:  
+###### >> output
 Lista:
 - Primeiro item 
 	- Primeiro subitem
@@ -75,15 +78,16 @@ Lista:
 &nbsp;
      
 &nbsp;     
-**4. Lista de tarefas:**  
-. marcação:   
+**4. Lista de tarefas**  
+---
+###### >> marcação  
 ```
 Tarefas a realizar
 - [x] Revisar o código
 - [ ] Criar o repositório no GH
 - [ ] Enviar arquivos para o GH
 ```
-. output:  
+###### >> output
 Tarefas a realizar
 - [x] Revisar o código
 - [ ] Criar o repositório no GH
