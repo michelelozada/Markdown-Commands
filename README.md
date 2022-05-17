@@ -1,7 +1,5 @@
 # Comandos Markdown
  
-Repositório em andamento com a sintaxe básica da linguagem de marcação Markdown. 
-
 Script | Descrição 
 :---: | :---
 01 | [Criando destaques de texto](https://github.com/michelelozada/Comandos-Markdown/blob/main/01-Destacando-o-texto.md)
