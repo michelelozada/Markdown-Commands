@@ -1,6 +1,6 @@
 # Comandos Markdown
  
-Repositório em andamento com a sintaxe básica da linguagem de marcação Markdown. 
+Repositório com a sintaxe básica da linguagem de marcação Markdown. 
 
 Índice | Descrição 
 :---: | :---
