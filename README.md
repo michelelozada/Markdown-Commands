@@ -1,5 +1,4 @@
 <div align="center">
-	<img src="./assets/js.png">
 	<h1>Comandos Markdown</h1>
 	
 Índice | Descrição 
