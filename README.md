@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="./assets/js.png">
+	<img src="./assets/markdown.png">
 	<h1>Lógica de Programação e Algoritmos em JavaScript</h1>
 
 Índice | Descrição 
