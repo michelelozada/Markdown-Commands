@@ -56,6 +56,7 @@ console.log(typeof d1)
 console.log(typeof d2)
 ````
 ###### >> marcação para código Python 
+<pre>
 ```py
 n1 = 1
 n2 = 1
