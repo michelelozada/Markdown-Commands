@@ -1,4 +1,4 @@
-> Listando itens via linguagem Markdown    
+> **Listando itens via linguagem Markdown**      
 > Repositório: Comandos Markdown  
 > GitHub: @michelelozada
 &nbsp;

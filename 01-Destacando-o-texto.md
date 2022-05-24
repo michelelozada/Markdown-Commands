@@ -1,4 +1,4 @@
-> Criando destaques de texto via linguagem Markdown  
+> **Criando destaques de texto via linguagem Markdown**    
 > Repositório: Comandos Markdown  
 > GitHub: @michelelozada
 &nbsp;

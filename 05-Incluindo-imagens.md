@@ -1,4 +1,4 @@
-> Incluindo imagens e emojis via linguagem Markdown    
+> **Incluindo imagens e emojis via linguagem Markdown**      
 > Repositório: Comandos Markdown  
 > GitHub: @michelelozada
 &nbsp;
