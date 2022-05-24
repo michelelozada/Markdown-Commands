@@ -9,7 +9,7 @@
 *Obs: O alinhamento default aqui é centralizado*  
 
 ###### >> marcação 
-```
+```markdown
 | Tipo    | Sabor   | R$/kg  |
 | ------  | -----   | -----  |
 | Lasagna | Carne   | 52,90  |

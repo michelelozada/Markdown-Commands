@@ -7,7 +7,7 @@
 **1. Criando diferentes níveis de título**  
 ---
 ###### >> marcação      
-```
+```markdown
 # Título nível 1    
 ## Título nível 2    
 ### Título nível 3    

@@ -7,7 +7,7 @@
 **1. Lista numerada (aka listas ordenadas)**  
 ---
 ###### >> marcação   
-```
+```markdown
 Lista:
    1. Primeiro item 
    1. Segundo item 
@@ -25,7 +25,7 @@ Lista:
 **2. Lista de marcadores (aka listas não ordenadas)**  
 ---
 ###### >> marcação  
-```
+```markdown
 Lista:
    * Primeiro item 
    * Segundo item
@@ -33,7 +33,7 @@ Lista:
 ```
 ou
 
-```
+```markdown
 Lista:
    - Primeiro item 
    - Segundo item
@@ -53,7 +53,7 @@ Lista:
 *Obs: Apenas para listas de marcadores*  
 
 ###### >> marcação   
-```
+```markdown
 Lista:
 - Primeiro item 
 	- Primeiro subitem
@@ -81,7 +81,7 @@ Lista:
 **4. Lista de tarefas**  
 ---
 ###### >> marcação  
-```
+```markdown
 Tarefas a realizar
 - [x] Revisar o código
 - [ ] Criar o repositório no GH

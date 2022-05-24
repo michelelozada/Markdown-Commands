@@ -19,7 +19,7 @@ Caso deseje imprimir um trecho de código, `você deve envolver o código utiliz
 ---
 ###### >> marcação    
 <pre>
-```
+```markdown
 A marcação assim utilizada
 faz com que o bloco de código
 multilinhas
