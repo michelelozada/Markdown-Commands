@@ -39,7 +39,7 @@ seja assim exibido
 **3. Destacando blocos de código de acordo com a linguagem utilizada** 
 ---
 Logo após a primeira marcação de bloco de código, coloque o [código da linguagem determinado para esta função](https://rdmd.readme.io/docs/code-blocks'Clique aqui para consultar a lista completa'): 
-###### >> marcação    
+###### >> marcação para código JavaScript   
 <pre>
 ```js
 let d1 = true;
@@ -55,7 +55,7 @@ let d2 = false;
 console.log(typeof d1)
 console.log(typeof d2)
 ````
-</pre>
+###### >> marcação para código Python 
 ```py
 n1 = 1
 n2 = 1
