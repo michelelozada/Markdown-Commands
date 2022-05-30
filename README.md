@@ -14,7 +14,7 @@
 08 | [Quebra de linhas e inclusão de espaços em branco](https://github.com/michelelozada/Comandos-Markdown/blob/main/08-Quebrando-linhas.md)
 
 &nbsp;   
-:computer: **Fontes consultadas:**  
+:page_facing_up: **Fontes consultadas:**  
 [Documentação - CommonMark](https://commonmark.org/)  
 [Documentação - ReadMe](https://rdmd.readme.io/docs/getting-started/)
 </div> 
