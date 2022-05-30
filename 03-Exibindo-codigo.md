@@ -1,4 +1,4 @@
-> **Exibindo trechos de código via linguagem Markdown**      
+> **Exibindo trechos ou blocos de código via linguagem Markdown**      
 > Repositório: Comandos Markdown  
 > GitHub: @michelelozada
 &nbsp;
@@ -6,7 +6,6 @@
 &nbsp; 
 &nbsp;    
 **1. Para exibição de um trecho de código**  
----
 ###### >> marcação 
 ``Caso deseje imprimir um trecho de código, `você deve envolver o código utilizando esta marcação aqui!`.``    
 
@@ -16,7 +15,6 @@ Caso deseje imprimir um trecho de código, `você deve envolver o código utiliz
      
 &nbsp;     
 **2. Para exibição de um bloco de código** 
----
 ###### >> marcação    
 <pre>
 ```
@@ -37,7 +35,6 @@ seja assim exibido
      
 &nbsp;  
 **3. Destacando blocos de código de acordo com a linguagem utilizada** 
----
 Logo após a primeira marcação de bloco de código, coloque o [código da linguagem determinado para esta função](https://rdmd.readme.io/docs/code-blocks 'Clique aqui para consultar a lista completa'): 
 ###### >> marcação para código JavaScript   
 <pre>
