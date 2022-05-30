@@ -12,9 +12,8 @@
 06 | [Gerando tabelas](https://github.com/michelelozada/Comandos-Markdown/blob/main/06-Gerando-tabelas.md)
 07 | [Aplicando diferentes níveis de títulos](https://github.com/michelelozada/Comandos-Markdown/blob/main/07-Aplicando-titulos.md)
 08 | [Quebra de linhas e inclusão de espaços em branco](https://github.com/michelelozada/Comandos-Markdown/blob/main/08-Quebrando-linhas.md)
-&nbsp; 
 
-&nbsp;   
+&nbsp;    
 ### Fontes consultadas:
 [Documentação - CommonMark](https://commonmark.org/)  
 [Documentação - ReadMe](https://rdmd.readme.io/docs/getting-started/)
