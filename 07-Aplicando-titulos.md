@@ -1,4 +1,4 @@
-> **Aplicando títulos via linguagem Markdown**      
+> **Aplicando diferentes níveis de títulos**      
 > Repositório: Comandos Markdown  
 > GitHub: @michelelozada
 &nbsp;
