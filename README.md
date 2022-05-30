@@ -13,8 +13,6 @@
 07 | [Aplicando diferentes níveis de títulos](https://github.com/michelelozada/Comandos-Markdown/blob/main/07-Aplicando-titulos.md)
 08 | [Quebra de linhas e inclusão de espaços em branco](https://github.com/michelelozada/Comandos-Markdown/blob/main/08-Quebrando-linhas.md)
 
-&nbsp;  
-
 &nbsp;   
 :computer: **Fontes consultadas:**  
 [Documentação - CommonMark](https://commonmark.org/)  
