@@ -35,7 +35,7 @@ seja assim exibido
      
 &nbsp;  
 **3. Destacando blocos de código de acordo com a linguagem utilizada** 
-Logo após a primeira marcação de bloco de código, coloque o [código da linguagem determinado para esta função](https://rdmd.readme.io/docs/code-blocks 'Clique aqui para consultar a lista completa'): 
+Logo após a primeira marcação de bloco de código, inclua o [código da linguagem determinado para esta função](https://rdmd.readme.io/docs/code-blocks 'Clique aqui para consultar a lista completa'): 
 ###### >> marcação para código JavaScript   
 <pre>
 ```js
