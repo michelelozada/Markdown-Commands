@@ -4,7 +4,7 @@
 &nbsp;
      
 &nbsp;     
-**1. Tabela padrão**  
+**Tabela padrão**  
 ---
 *Obs: O alinhamento default aqui é centralizado*  
 

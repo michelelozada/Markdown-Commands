@@ -4,7 +4,7 @@
 &nbsp;
      
 &nbsp;     
-**1. Adicionando um link externo**  
+**Adicionando um link externo**  
 ---
 ###### >> Marcação  
 ```markdown
