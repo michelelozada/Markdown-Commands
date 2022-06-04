@@ -6,16 +6,16 @@
 &nbsp; 
 &nbsp;    
 **1. Para exibição de um trecho de código**  
-###### >> marcação 
+###### >> Marcação 
 ``Caso deseje imprimir um trecho de código, `você deve envolver o código utilizando esta marcação aqui!`.``    
 
-###### >> output 
+###### >> Renderização 
 Caso deseje imprimir um trecho de código, `você deve envolver o código utilizando esta marcação aqui!`.  
 &nbsp;
      
 &nbsp;     
 **2. Para exibição de um bloco de código** 
-###### >> marcação    
+###### >> Marcação    
 <pre>
 ```
 A marcação assim utilizada
@@ -24,7 +24,7 @@ multilinhas
 seja assim exibido
 ```  
 </pre>
-###### >> output   
+###### >> Renderização   
 ````
 A marcação assim utilizada
 faz com que o bloco de código
@@ -36,7 +36,7 @@ seja assim exibido
 &nbsp;  
 **3. Destacando blocos de código de acordo com a linguagem utilizada** 
 Logo após a primeira marcação de bloco de código, inclua o [código da linguagem determinado para esta função](https://rdmd.readme.io/docs/code-blocks 'Clique aqui para consultar a lista completa'): 
-###### >> marcação para código JavaScript   
+###### >> Marcação para código JavaScript   
 <pre>
 ```js
 let d1 = true;
@@ -45,14 +45,14 @@ console.log(typeof d1)
 console.log(typeof d2)
 ```  
 </pre>
-###### >> output   
+###### >> Renderização   
 ````js
 let d1 = true;
 let d2 = false;
 console.log(typeof d1)
 console.log(typeof d2)
 ````
-###### >> marcação para código Python 
+###### >> Marcação para código Python 
 <pre>
 ```py
 n1 = 1
@@ -64,7 +64,7 @@ for n1 in range (1,11,1):
         print(n1 ,'x', n2 ,'=', n1*n2)
 ```  
 </pre>
-###### >> output   
+###### >> Renderização   
 ````py
 n1 = 1
 n2 = 1

@@ -8,7 +8,7 @@
 ---
 *Obs: O alinhamento default aqui é centralizado*  
 
-###### >> marcação 
+###### >> Marcação 
 ```markdown
 | Tipo    | Sabor   | R$/kg  |
 | ------  | -----   | -----  |
@@ -17,7 +17,7 @@
 | Ravioli | Frango  | 48,90  |
 | Ravioli | Ricota  | 47,90  |
 ```
-###### >> output 
+###### >> Renderização 
 | Tipo    | Sabor   | R$/kg  |
 | ------  | -----   | -----  |
 | Lasagna | Carne   | 52,90  |

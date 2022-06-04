@@ -6,38 +6,38 @@
 &nbsp;     
 **1. Aplicação de negrito**  
 ---
-###### >> marcação      
+###### >> Marcação      
 `Há duas alternativas para aplicar negrito a um texto: esta é a **primeira maneira**; já esta, é a __segunda maneira__.`  
 
-###### >> output   
+###### >> Renderização   
 Há duas alternativas para aplicar negrito a um texto: esta é a **primeira maneira**; já esta, é a __segunda maneira__.    
 &nbsp;
      
 &nbsp;    
 **2. Aplicação de itálico**  
 ---
-###### >> marcação 
+###### >> Marcação 
 `Há duas alternativas para aplicar itálico a um texto: esta é a *primeira maneira*; já esta, é a _segunda maneira_.`
 
-###### >> output
+###### >> Renderização
 Há duas alternativas para aplicar itálico a um texto: esta é a *primeira maneira*; já esta, é a _segunda maneira_.    
 &nbsp;
      
 &nbsp;    
 **3. Aplicação de negrito com itálico**  
 ---
-###### >> marcação 
+###### >> Marcação 
 `A ênfase acima ainda não foi suficiente? Então basta usar ***este marcador aqui*** para aplicar simultaneamente negrito e itálico.`
 
-###### >> output 
+###### >> Renderização 
 A ênfase acima ainda não foi suficiente? Então basta usar ***este marcador aqui*** para aplicar simultaneamente negrito e itálico.    
 &nbsp;
      
 &nbsp;    
 **4. Tachando um texto**  
 ---
-###### >> marcação  
+###### >> Marcação  
 `Também é possível tachar um texto, ~~basta somente utilizar esta marcação aqui~~.`
 
-###### >> output 
+###### >> Renderização 
 Também é possível tachar um texto, ~~basta somente utilizar esta marcação aqui~~.

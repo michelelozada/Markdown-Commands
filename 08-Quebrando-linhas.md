@@ -29,7 +29,7 @@ Primeira linha \
 \
 Quarta linha 
 ```
-###### >> Output 
+###### >> Renderização 
 Primeira linha \
 \
 \
@@ -66,7 +66,7 @@ A primeira linha.
 &nbsp;A segunda linha começando um pouco recuada à direita
 &nbsp;&nbsp;Esta é a terceira linha
 ```
-###### >> Output 
+###### >> Renderização 
 A primeira linha.      
 &nbsp;A segunda linha começando um pouco recuada à direita  
 &nbsp;&nbsp;Esta é a terceira linha

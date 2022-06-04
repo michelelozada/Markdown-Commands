@@ -6,7 +6,7 @@
 &nbsp;     
 **1. Criando diferentes níveis de título**  
 ---
-###### >> marcação      
+###### >> Marcação      
 ```markdown
 # Título nível 1    
 ## Título nível 2    
@@ -16,7 +16,7 @@
 ###### Título nível 6
 ```
 
-###### >> output
+###### >> Renderização
 *Obs: Repare que os títulos de nível 1 e 2 são acompanhados de linhas divisórias*
 # Título nível 1    
 ## Título nível 2    
