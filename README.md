@@ -13,6 +13,7 @@
 07 | [Aplicando títulos e inserindo linhas](https://github.com/michelelozada/Comandos-Markdown/blob/main/07-Aplicando-titulos-e-linhas.md)
 08 | [Quebra de linhas e inclusão de espaços em branco](https://github.com/michelelozada/Comandos-Markdown/blob/main/08-Quebrando-linhas.md)
 09 | [Escapando caracteres especiais](https://github.com/michelelozada/Comandos-Markdown/blob/main/09-Escapando-caracteres-especiais.md)
+
 &nbsp;   
 :bookmark_tabs: **Fontes consultadas:**  
 [Documentação - CommonMark](https://commonmark.org/)  
