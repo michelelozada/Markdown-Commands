@@ -10,9 +10,9 @@
 04 | [Adicionando links](https://github.com/michelelozada/Comandos-Markdown/blob/main/04-Adicionando-links.md)
 05 | [Incluindo imagens e emojis](https://github.com/michelelozada/Comandos-Markdown/blob/main/05-Incluindo-imagens.md)
 06 | [Gerando tabelas](https://github.com/michelelozada/Comandos-Markdown/blob/main/06-Gerando-tabelas.md)
-07 | [Aplicando diferentes níveis de títulos](https://github.com/michelelozada/Comandos-Markdown/blob/main/07-Aplicando-titulos.md)
+07 | [Aplicando títulos e inserindo linhas](https://github.com/michelelozada/Comandos-Markdown/blob/main/07-Aplicando-titulos-e-linhas.md)
 08 | [Quebra de linhas e inclusão de espaços em branco](https://github.com/michelelozada/Comandos-Markdown/blob/main/08-Quebrando-linhas.md)
-
+09 | [Escapando caracteres especiais](https://github.com/michelelozada/Comandos-Markdown/blob/main/09-Escapando-caracteres-especiais.md)
 &nbsp;   
 :bookmark_tabs: **Fontes consultadas:**  
 [Documentação - CommonMark](https://commonmark.org/)  

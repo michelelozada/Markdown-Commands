@@ -5,13 +5,20 @@
      
 &nbsp; 
 &nbsp;    
-**1. Para exibição de um trecho de código**  
+**1. Para exibição de comandos ou trechos de código**  
 ---
 ###### >> Marcação 
-``Caso deseje imprimir um trecho de código, `você deve envolver o código utilizando esta marcação aqui!`.``    
-
+```
+Em Python, há uma série de funções nativas que convertem valores de um tipo em outro.   
+A função `int` recebe um valor e o converte para inteiro. 
+A função `float` converte inteiros e strings em números em ponto flutuante.  
+E a função `str` converte os valores para o tipo string.
+```
 ###### >> Renderização 
-Caso deseje imprimir um trecho de código, `você deve envolver o código utilizando esta marcação aqui!`.  
+Em Python, há uma série de funções nativas que convertem valores de um tipo em outro.  
+A função `int` recebe um valor e o converte para inteiro.  
+A função `float` converte inteiros e strings em números em ponto flutuante.  
+E a função `str` converte os valores para o tipo string. 
 &nbsp;
      
 &nbsp;     

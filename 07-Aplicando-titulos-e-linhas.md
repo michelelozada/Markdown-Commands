@@ -1,10 +1,10 @@
-> **Aplicando diferentes níveis de títulos**      
+> **Aplicando títulos e inserindo linhas**      
 > Repositório: Comandos Markdown  
 > GitHub: @michelelozada
 &nbsp;
      
 &nbsp;     
-**Criando diferentes níveis de título**  
+**1. Aplicando diferentes níveis de título**  
 ---
 ###### >> Marcação      
 ```markdown
@@ -24,3 +24,20 @@
 #### Título nível 4    
 ##### Título nível 5    
 ###### Título nível 6
+&nbsp;
+     
+&nbsp;     
+**2. Inserindo linhas horizontais**  
+---
+Para isto, basta utilizar a seguinte marcação: 
+###### >> Marcação      
+```markdown
+* * *
+```
+Ou alternativamente:
+```markdown
+- - -
+```
+ 
+###### >> Renderização
+* * *
