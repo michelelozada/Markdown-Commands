@@ -32,12 +32,12 @@
 Para isto, basta utilizar a seguinte marcação: 
 ###### >> Marcação      
 ```markdown
-* * *
+***
 ```
 Ou alternativamente:
 ```markdown
-- - -
+---
 ```
  
 ###### >> Renderização
-* * *
+***

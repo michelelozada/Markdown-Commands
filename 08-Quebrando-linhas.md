@@ -37,7 +37,7 @@ Primeira linha \
 \
 \
 Quarta linha  
-
+&nbsp;   
 **Observação:** quando HTML também é suportando, é possível utilizar a tag <br\> para produzir a quebra de linha.
 ###### >> Marcação 
 ```markdown
@@ -55,10 +55,18 @@ Para adicionar espaço entre dois parágrafos, utilize o código `&nbsp;` da for
 dois espaços extras/em branco ao fim.
 ###### >> Marcação 
 ```markdown
+Este é o primeiro parágrafo.
 &nbsp; 
 
-&nbsp;   
+&nbsp;  
+Já este é o segundo parágrafo. 
 ```
+###### >> Renderização 
+Este é o primeiro parágrafo.
+&nbsp; 
+
+&nbsp;  
+Já este é o segundo parágrafo. 
 &nbsp; 
 
 &nbsp;   
@@ -67,10 +75,10 @@ dois espaços extras/em branco ao fim.
 ###### >> Marcação 
 ```markdown
 A primeira linha.      
-&nbsp;A segunda linha começando um pouco recuada à direita
-&nbsp;&nbsp;Esta é a terceira linha
+&nbsp;A segunda linha começando um pouco recuada à direita.
+&nbsp;&nbsp;Esta é a terceira linha.
 ```
 ###### >> Renderização 
 A primeira linha.      
-&nbsp;A segunda linha começando um pouco recuada à direita  
-&nbsp;&nbsp;Esta é a terceira linha
+&nbsp;A segunda linha começando um pouco recuada à direita.
+&nbsp;&nbsp;Esta é a terceira linha.

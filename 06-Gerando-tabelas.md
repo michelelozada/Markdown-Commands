@@ -24,3 +24,17 @@
 | Lasanha | Frango  | 49,90  |
 | Ravioli | Frango  | 48,90  |
 | Ravioli | Ricota  | 47,90  |
+
+&nbsp;   
+É possível alinhar as colunas da tabela, de acordo com marcação abaixo:
+###### >> Marcação 
+```markdown
+| Alinhamento coluna 1 | Alinhamento coluna 2     | Alinhamento coluna 3 |
+| :------              | :-----:                  | -----:               |
+| Direita              | Centro                   | Esquerda             |
+
+```
+###### >> Renderização 
+| Alinhamento coluna 1 | Alinhamento coluna 2     | Alinhamento coluna 3 |
+| :------              | :-----:                  | -----:               |
+| Direita              | Centro                   | Esquerda             |
