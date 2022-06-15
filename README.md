@@ -18,6 +18,6 @@
 &nbsp;   
 :bookmark_tabs: **Fontes consultadas:**  
 [Documentação - CommonMark](https://commonmark.org/)  
-[Documentação - ReadMe](https://rdmd.readme.io/docs/getting-started/)
+[Documentação - ReadMe](https://rdmd.readme.io/docs/getting-started/)  
 [GitHub - Blog](https://github.blog/)
 </div> 
