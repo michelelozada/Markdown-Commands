@@ -13,7 +13,12 @@
 07 | [Aplicando títulos e inserindo linhas](https://github.com/michelelozada/Comandos-Markdown/blob/main/07-Aplicando-titulos-e-linhas.md)
 08 | [Quebra de linhas e inclusão de espaços em branco](https://github.com/michelelozada/Comandos-Markdown/blob/main/08-Quebrando-linhas.md)
 09 | [Incluindo notas de rodapé](https://github.com/michelelozada/Comandos-Markdown/blob/main/09-Incluindo-notas-rodape.md)
-10 | [Escapando caracteres especiais](https://github.com/michelelozada/Comandos-Markdown/blob/main/10-Escapando-caracteres-especiais.md)
+10 | [Expandindo e retraindo um bloco de texto ](https://github.com/michelelozada/Comandos-Markdown/blob/main/10-Expandindo-retraindo-texto.md)
+11 | [Escapando caracteres especiais](https://github.com/michelelozada/Comandos-Markdown/blob/main/11-Escapando-caracteres-especiais.md)
+
+
+
+
 
 &nbsp;   
 :bookmark_tabs: **Fontes consultadas:**  
