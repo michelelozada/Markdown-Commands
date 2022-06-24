@@ -24,5 +24,5 @@
 :bookmark_tabs: **Fontes consultadas:**  
 [Documentação - CommonMark](https://commonmark.org/)  
 [Documentação - ReadMe](https://rdmd.readme.io/docs/getting-started/)  
-[GitHub - Blog](https://github.blog/)
+[GitHub - Blog](https://github.blog/changelog/label/markdown/)
 </div> 
