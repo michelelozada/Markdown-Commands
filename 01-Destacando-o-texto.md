@@ -41,3 +41,23 @@ A ênfase acima ainda não foi suficiente? Então basta usar ***este marcador aq
 
 ###### >> Renderização 
 Também é possível tachar um texto, ~~basta somente utilizar esta marcação aqui~~.
+&nbsp;
+     
+&nbsp;    
+**4. Definindo texto subscrito**  
+---
+###### >> Marcação  
+`x<sub>2</sub> + y<sub>4</sub> = 100`
+
+###### >> Renderização 
+x<sub>2</sub> + y<sub>4</sub> = 100
+&nbsp;
+     
+&nbsp;    
+**5. Definindo texto sobrescrito**  
+---
+###### >> Marcação  
+`This is the 2<sup>nd</sup> version.`
+
+###### >> Renderização 
+This is the 2<sup>nd</sup> version.

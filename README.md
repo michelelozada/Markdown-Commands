@@ -16,13 +16,10 @@
 10 | [Expandindo e retraindo um bloco de texto ](https://github.com/michelelozada/Comandos-Markdown/blob/main/10-Expandindo-retraindo-texto.md)
 11 | [Escapando caracteres especiais](https://github.com/michelelozada/Comandos-Markdown/blob/main/11-Escapando-caracteres-especiais.md)
 
-
-
-
-
 &nbsp;   
 :bookmark_tabs: **Fontes consultadas:**  
 [Documentação - CommonMark](https://commonmark.org/)  
+[Documentação - GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)  
 [Documentação - ReadMe](https://rdmd.readme.io/docs/getting-started/)  
 [GitHub - Blog](https://github.blog/changelog/label/markdown/)
 </div> 
