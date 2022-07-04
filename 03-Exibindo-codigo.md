@@ -25,14 +25,14 @@ E a função `str` converte os valores para o tipo string.
 **2. Para exibição de um bloco de código** 
 ---
 ###### >> Marcação    
-<pre>
+````
 ```
 A marcação assim utilizada
 faz com que o bloco de código
 multilinhas
 seja assim exibido
 ```  
-</pre>
+````
 ###### >> Renderização   
 ````
 A marcação assim utilizada
@@ -43,18 +43,18 @@ seja assim exibido
 &nbsp;
      
 &nbsp;  
-**3. Destacando blocos de código de acordo com a linguagem utilizada** 
+**3. Realçando a sintaxe da linguagem dentro do bloco de código** 
 ---
 Logo após a primeira marcação de bloco de código, inclua o [código da linguagem determinado para esta função](https://rdmd.readme.io/docs/code-blocks 'Clique aqui para consultar a lista completa'): 
 ###### >> Marcação para código JavaScript   
-<pre>
+````
 ```js
 let d1 = true;
 let d2 = false;
 console.log(typeof d1)
 console.log(typeof d2)
 ```  
-</pre>
+````
 ###### >> Renderização   
 ````js
 let d1 = true;
@@ -63,7 +63,7 @@ console.log(typeof d1)
 console.log(typeof d2)
 ````
 ###### >> Marcação para código Python 
-<pre>
+````
 ```py
 n1 = 1
 n2 = 1
@@ -73,7 +73,7 @@ for n1 in range (1,11,1):
     for n2 in range (1,11,1):
         print(n1 ,'x', n2 ,'=', n1*n2)
 ```  
-</pre>
+````
 ###### >> Renderização   
 ````py
 n1 = 1
