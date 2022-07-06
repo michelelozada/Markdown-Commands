@@ -18,7 +18,7 @@
 12 | [Elaborando diagramas com a sintaxe Mermaid](https://github.com/michelelozada/Comandos-Markdown/blob/main/12-Diagramas-com-Mermaid.md)
 
 &nbsp;   
-:bookmark_tabs: ** Referências consultadas para criação deste repositório::**  
+:bookmark_tabs: **Referências consultadas para criação deste repositório:**  
 [Documentação - CommonMark](https://commonmark.org/)  
 [Documentação - GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)  
 [Documentação - ReadMe](https://rdmd.readme.io/docs/getting-started/)  
