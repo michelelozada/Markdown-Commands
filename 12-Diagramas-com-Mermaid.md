@@ -4,9 +4,9 @@
 &nbsp;
      
 &nbsp;  
-A sintaxe Mermaid permite a criação de vários tipos de diagramas para projetos, baseados em linguagem Markdown e,  que são renderizados no navegador.    
-&nbsp; 
-Os vários modelos disponíveis (fluxogramas, diagramas UML, pie charts, etc.) seguem [na sua página oficial](https://mermaid-js.github.io/mermaid/#/).
+A sintaxe Mermaid permite a criação de vários tipos de diagramas para projetos que, baseados em linguagem Markdown, são renderizados no navegador.    
+&nbsp;     
+Os vários modelos disponíveis de fluxogramas, diagramas UML, pie charts, etc. estão disponíveis [na sua página oficial](https://mermaid-js.github.io/mermaid/#/).
 &nbsp;
      
 &nbsp;      
