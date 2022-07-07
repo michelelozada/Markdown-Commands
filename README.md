@@ -4,18 +4,18 @@
 
 Índice | Descrição 
 :---:  | :---
-01 | [Criando destaques de texto](https://github.com/michelelozada/Comandos-Markdown/blob/main/01-Destacando-o-texto.md)
-02 | [Listando itens](https://github.com/michelelozada/Comandos-Markdown/blob/main/02-Listando-itens.md)
-03 | [Exibindo trechos ou blocos de código](https://github.com/michelelozada/Comandos-Markdown/blob/main/03-Exibindo-codigo.md)
-04 | [Adicionando links](https://github.com/michelelozada/Comandos-Markdown/blob/main/04-Adicionando-links.md)
-05 | [Incluindo imagens e emojis](https://github.com/michelelozada/Comandos-Markdown/blob/main/05-Incluindo-imagens.md)
-06 | [Gerando tabelas](https://github.com/michelelozada/Comandos-Markdown/blob/main/06-Gerando-tabelas.md)
-07 | [Aplicando títulos e inserindo linhas](https://github.com/michelelozada/Comandos-Markdown/blob/main/07-Aplicando-titulos-e-linhas.md)
-08 | [Quebra de linhas e inclusão de espaços em branco](https://github.com/michelelozada/Comandos-Markdown/blob/main/08-Quebrando-linhas.md)
-09 | [Incluindo notas de rodapé](https://github.com/michelelozada/Comandos-Markdown/blob/main/09-Incluindo-notas-rodape.md)
-10 | [Expandindo e retraindo um bloco de texto ](https://github.com/michelelozada/Comandos-Markdown/blob/main/10-Expandindo-retraindo-texto.md)
-11 | [Escapando caracteres especiais](https://github.com/michelelozada/Comandos-Markdown/blob/main/11-Escapando-caracteres-especiais.md)
-12 | [Elaborando diagramas com a sintaxe Mermaid](https://github.com/michelelozada/Comandos-Markdown/blob/main/12-Diagramas-com-Mermaid.md)
+[01](https://github.com/michelelozada/Comandos-Markdown/blob/main/files/01-Destacando-o-texto.md) | Criando destaques de texto
+[02](https://github.com/michelelozada/Comandos-Markdown/blob/main/files/02-Listando-itens.md)| Listando itens
+[03](https://github.com/michelelozada/Comandos-Markdown/blob/main/files/03-Exibindo-codigo.md) | Exibindo trechos ou blocos de código
+[04](https://github.com/michelelozada/Comandos-Markdown/blob/main/files/04-Adicionando-links.md) | Adicionando links
+[05](https://github.com/michelelozada/Comandos-Markdown/blob/main/files/05-Incluindo-imagens.md)| Incluindo imagens e emojis
+[06](https://github.com/michelelozada/Comandos-Markdown/blob/main/files/06-Gerando-tabelas.md) | Gerando tabelas
+[07](https://github.com/michelelozada/Comandos-Markdown/blob/main/files/07-Aplicando-titulos-e-linhas.md)| Aplicando títulos e inserindo linhas
+[08](https://github.com/michelelozada/Comandos-Markdown/blob/main/files/08-Quebrando-linhas.md) | Quebra de linhas e inclusão de espaços em branco
+[09](https://github.com/michelelozada/Comandos-Markdown/blob/main/files/09-Incluindo-notas-rodape.md)| Incluindo notas de rodapé
+[10](https://github.com/michelelozada/Comandos-Markdown/blob/main/files/10-Expandindo-retraindo-texto.md)| Expandindo e retraindo um bloco de texto 
+[11](https://github.com/michelelozada/Comandos-Markdown/blob/main/files/11-Escapando-caracteres-especiais.md) | Escapando caracteres especiais
+[12](https://github.com/michelelozada/Comandos-Markdown/blob/main/files/12-Diagramas-com-Mermaid.md)| Elaborando diagramas com a sintaxe Mermaid
 
 &nbsp;   
 :bookmark_tabs: **Referências consultadas para criação deste repositório:**  
