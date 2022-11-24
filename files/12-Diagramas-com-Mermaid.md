@@ -10,7 +10,7 @@ Os vários modelos disponíveis de fluxogramas, diagramas UML, pie charts, etc. 
 &nbsp;
      
 &nbsp;      
-**Exemplo 1 -** Criação de um diagrama de sequência baseado [neste exemplo aqui](https://www.qconcursos.com/questoes-de-concursos/questoes/0c70b814-09):    
+:arrow_forward: **Exemplo 1 -** Criação de um diagrama de sequência baseado [neste exemplo aqui](https://www.qconcursos.com/questoes-de-concursos/questoes/0c70b814-09):    
 ##### >> Marcação para a criação do diagrama:
 ````
 ```mermaid
@@ -45,7 +45,7 @@ sequenceDiagram
 &nbsp;
      
 &nbsp;      
-**Exemplo 2 -** Criação de um fluxograma:    
+:arrow_forward: **Exemplo 2 -** Criação de um fluxograma:    
 ##### >> Marcação para a criação do diagrama:
 ````
 ```mermaid
@@ -65,4 +65,26 @@ flowchart LR
     B -->|Falso| D(O aluno ficou para prova final)
     C -->E(Fim)
     D -->E(Fim)
+```
+&nbsp;
+     
+&nbsp;      
+:arrow_forward: **Exemplo 3 -** Criação de um pie chart:    
+##### >> Marcação para a criação do diagrama:
+````
+```mermaid
+pie showData
+    title Intenção de voto por candidato
+    "Candidato A" : 35.0
+    "Candidato B" : 40.0
+    "Candidato C" : 25.0
+```
+````
+##### >> A renderização do código acima:
+```mermaid
+pie showData
+    title Intenção de voto por candidato
+    "Candidato A" : 35.0
+    "Candidato B" : 40.0
+    "Candidato C" : 25.0
 ```
