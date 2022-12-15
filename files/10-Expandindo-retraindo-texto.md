@@ -8,7 +8,7 @@
 ```markdown
 ## Novas features
 <details>
-  <summary>Clique abaixo para ler mais detalhes sobre as novas implementações desta versão</summary>
+  <summary>Clique aqui para ler mais detalhes sobre as novas implementações desta versão</summary>
   
   ### Relação das  novas funcionalidades (v 2.0.5)
   1. Libração do cronômetro de promoção; 
@@ -23,7 +23,7 @@
 ##### >> Renderização: 
 ## Novas features
 <details>
-  <summary>Clique abaixo para ler mais detalhes sobre as novas implementações desta versão</summary>
+  <summary>Clique aqui para ler mais detalhes sobre as novas implementações desta versão</summary>
   
   ### Relação das  novas funcionalidades (v 2.0.5)
   1. Libração do cronômetro de promoção; 
