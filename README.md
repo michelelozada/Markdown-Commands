@@ -1,6 +1,9 @@
 <div align="center">
 <img src="./assets/markdown.png">
-<h1>Comandos Markdown</h1>
+<h2>Comandos Markdown</h2>
+<h3>⬝&nbsp; Tela Inicial &nbsp;⬝</h3>
+&nbsp;
+&nbsp;
 
 Índice | Descrição 
 :---:  | :---
@@ -18,12 +21,17 @@
 [12](https://github.com/michelelozada/Comandos-Markdown/blob/main/files/12-Diagramas-com-Mermaid.md)| Elaborando diagramas com a sintaxe Mermaid
 
 &nbsp;   
-**Referências consultadas para criação deste repositório:**
-&nbsp;
-| Link   | Nome |
-| :---:  | :---	|
-| [:bookmark_tabs:](https://commonmark.org/) | CommonMark |
-| [:bookmark_tabs:](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)| GitHub - Documentação |
-| [:bookmark_tabs:](https://github.blog/changelog/label/markdown/) | Markdown Guide |
-| [:bookmark_tabs:](https://rdmd.readme.io/docs/getting-started/) | ReadMe |
+ <details>
+ <summary><strong>Clique aqui para ver as referências consultadas para criação deste repositório</strong></summary>
+
+  &nbsp;
+  &nbsp;   
+  [CommonMark](https://commonmark.org/)  
+  [GitHub - Documentação](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)  
+  [Markdown Guide](https://github.blog/changelog/label/markdown/)  
+  [ReadMe](https://rdmd.readme.io/docs/getting-started/)  
+ </details>
+ 
+&nbsp;    
+[[Voltar ao topo]](https://github.com/michelelozada/Comandos-Markdown#comandos-markdown)
 </div> 
