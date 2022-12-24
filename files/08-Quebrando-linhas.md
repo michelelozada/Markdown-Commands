@@ -51,7 +51,7 @@ Quarta linha
 &nbsp;   
 **3. Espaçamento entre parágrafos**  
 ---
-Para adicionar espaço entre dois parágrafos, utilize o código `&nbsp;` da forma abaixo, deixando 
+Para adicionar espaço entre dois parágrafos, utilize o código `&nbsp;` da forma abaixo, deixando mais
 dois espaços extras/em branco ao fim.
 ###### >> Marcação 
 ```markdown
@@ -76,9 +76,15 @@ Já este é o segundo parágrafo.
 ```markdown
 A primeira linha.      
 &nbsp;A segunda linha começando um pouco recuada à direita.
-&nbsp;&nbsp;Esta é a terceira linha.
+&nbsp;&nbsp;Continuação da linha.
 ```
 ###### >> Renderização 
 A primeira linha.      
 &nbsp;A segunda linha começando um pouco recuada à direita.
-&nbsp;&nbsp;Esta é a terceira linha.
+&nbsp;&nbsp;Continuação da linha.
+
+&nbsp;
+
+<div align="center">
+<a href="https://github.com/michelelozada/Comandos-Markdown">[Voltar à tela inicial do repositório]</a>
+</div>

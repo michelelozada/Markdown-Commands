@@ -31,3 +31,9 @@
   1. Inclusão do campo "Produtos relacionados";
   1. Novas opções para customização do visual do site.
 </details>
+
+&nbsp;
+
+<div align="center">
+<a href="https://github.com/michelelozada/Comandos-Markdown">[Voltar à tela inicial do repositório]</a>
+</div>

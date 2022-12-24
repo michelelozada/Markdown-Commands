@@ -84,3 +84,9 @@ for n1 in range (1,11,1):
     for n2 in range (1,11,1):
         print(n1 ,'x', n2 ,'=', n1*n2)
 ````
+
+&nbsp;
+
+<div align="center">
+<a href="https://github.com/michelelozada/Comandos-Markdown">[Voltar à tela inicial do repositório]</a>
+</div>

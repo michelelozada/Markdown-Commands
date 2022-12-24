@@ -25,3 +25,9 @@ Estudando a tarde inteira! :computer: :open_book: :coffee:
 ```
 ###### >> Renderização 
 Estudando a tarde inteira! :computer: :open_book: :coffee:
+
+&nbsp;
+
+<div align="center">
+<a href="https://github.com/michelelozada/Comandos-Markdown">[Voltar à tela inicial do repositório]</a>
+</div>

@@ -38,3 +38,9 @@
 | Alinhamento coluna 1 | Alinhamento coluna 2     | Alinhamento coluna 3 |
 | :------              | :-----:                  | -----:               |
 | Direita              | Centro                   | Esquerda             |
+
+&nbsp;
+
+<div align="center">
+<a href="https://github.com/michelelozada/Comandos-Markdown">[Voltar à tela inicial do repositório]</a>
+</div>

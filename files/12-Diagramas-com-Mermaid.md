@@ -88,3 +88,9 @@ pie showData
     "Candidato B" : 40.0
     "Candidato C" : 25.0
 ```
+
+&nbsp;
+
+<div align="center">
+<a href="https://github.com/michelelozada/Comandos-Markdown">[Voltar à tela inicial do repositório]</a>
+</div>

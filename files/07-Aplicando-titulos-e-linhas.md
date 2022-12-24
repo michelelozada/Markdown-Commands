@@ -41,3 +41,9 @@ Ou alternativamente:
  
 ###### >> Renderização
 ***
+
+&nbsp;
+
+<div align="center">
+<a href="https://github.com/michelelozada/Comandos-Markdown">[Voltar à tela inicial do repositório]</a>
+</div>

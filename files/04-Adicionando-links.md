@@ -14,3 +14,9 @@ Para acessar a página inicial do GitHub, você deve acessar [este link aqui](ht
 
 ###### >> Renderização
 Para acessar a página inicial do GitHub, você deve acessar [este link aqui](https://github.com 'Clique para acessar a página inicial do GitHub')
+
+&nbsp;
+
+<div align="center">
+<a href="https://github.com/michelelozada/Comandos-Markdown">[Voltar à tela inicial do repositório]</a>
+</div>

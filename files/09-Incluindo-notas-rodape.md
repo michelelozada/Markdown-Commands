@@ -49,3 +49,12 @@
 [^4]: MANZANO, J. A. N. G. & OLIVEIRA, J. F. Algoritmos. Lógica para Desenvolvimento de Programação de Computadores. Ed. Érica. São Paulo, SP, 2011.
 [^5]: SALVETTI, D. D. & BARBOSA, L. M. Algoritmos. Makron Books. São Paulo, SP, 2004.
 [^6]: STEINMETZ, Ernesto Henrique Radis & FONTES, Roberto Duarte. Cartilha Lógica de Programação. Editora IFB, 2013. 
+
+&nbsp;
+
+<div align="center">
+<a href="https://github.com/michelelozada/Comandos-Markdown">[Voltar à tela inicial do repositório]</a>
+
+&nbsp;
+
+</div>

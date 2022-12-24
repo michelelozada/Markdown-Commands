@@ -61,3 +61,9 @@ x<sub>2</sub> + y<sub>4</sub> = 100
 
 ###### >> Renderização 
 This is the 2<sup>nd</sup> version.
+
+&nbsp;
+
+<div align="center">
+<a href="https://github.com/michelelozada/Comandos-Markdown">[Voltar à tela inicial do repositório]</a>
+</div>

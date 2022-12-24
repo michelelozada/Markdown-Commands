@@ -21,3 +21,9 @@ Já aqui, como você pode reparar, \* os asteriscos estão sendo exibidos\*, gra
 ```
 ###### >> Renderização 
 Já aqui, como você pode reparar, \* os asteriscos estão sendo exibidos\*, graças à inclusão das barras invertidas.
+
+&nbsp;
+
+<div align="center">
+<a href="https://github.com/michelelozada/Comandos-Markdown">[Voltar à tela inicial do repositório]</a>
+</div>

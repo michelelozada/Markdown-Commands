@@ -94,3 +94,9 @@ Tarefas a realizar
 - [x] Atualizar o README
 - [ ] Criar o repositório no GH
 - [ ] Subir arquivos para o GH
+
+&nbsp;
+
+<div align="center">
+<a href="https://github.com/michelelozada/Comandos-Markdown">[Voltar à tela inicial do repositório]</a>
+</div>
