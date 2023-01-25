@@ -8,7 +8,7 @@
 ---
 *Obs: O alinhamento default aqui é centralizado*  
 
-###### >> Marcação 
+#### :black_medium_small_square: Marcação 
 ```markdown
 | Tipo    | Sabor   | R$/kg  |
 | ------  | -----   | -----  |
@@ -17,7 +17,7 @@
 | Ravioli | Frango  | 48,90  |
 | Ravioli | Ricota  | 47,90  |
 ```
-###### >> Renderização 
+#### :black_medium_small_square: Renderização 
 | Tipo    | Sabor   | R$/kg  |
 | ------  | -----   | -----  |
 | Lasagna | Carne   | 52,90  |
@@ -27,14 +27,14 @@
 
 &nbsp;   
 É possível alinhar as colunas da tabela, de acordo com marcação abaixo:
-###### >> Marcação 
+#### :black_medium_small_square: Marcação 
 ```markdown
 | Alinhamento coluna 1 | Alinhamento coluna 2     | Alinhamento coluna 3 |
 | :------              | :-----:                  | -----:               |
 | Direita              | Centro                   | Esquerda             |
 
 ```
-###### >> Renderização 
+#### :black_medium_small_square: Renderização 
 | Alinhamento coluna 1 | Alinhamento coluna 2     | Alinhamento coluna 3 |
 | :------              | :-----:                  | -----:               |
 | Direita              | Centro                   | Esquerda             |

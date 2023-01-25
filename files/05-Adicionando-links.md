@@ -6,13 +6,13 @@
 &nbsp;     
 **Adicionando um link externo**  
 ---
-###### >> Marcação  
+#### :black_medium_small_square: Marcação  
 ```markdown
 Para acessar a página inicial do GitHub, você deve acessar [este link aqui](https://github.com 'Clique para acessar a página inicial do GitHub')
 ```
 *Obs: A frase que vem após o link, refere-se ao atributo title.*    
 
-###### >> Renderização
+#### :black_medium_small_square: Renderização
 Para acessar a página inicial do GitHub, você deve acessar [este link aqui](https://github.com 'Clique para acessar a página inicial do GitHub')
 
 &nbsp;

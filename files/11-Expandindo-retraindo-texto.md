@@ -4,7 +4,7 @@
 &nbsp;
      
 &nbsp; 
-##### >> Marcação: 
+#### :black_medium_small_square: Marcação: 
 ```markdown
 ## Novas features
 <details>
@@ -20,7 +20,7 @@
 **Observação:** É imprescindível deixar uma linha em branco após a tag `<sumary>`.  
 &nbsp;
 &nbsp; 
-##### >> Renderização: 
+#### :black_medium_small_square: Renderização: 
 ## Novas features
 <details>
   <summary>Clique aqui para ler mais detalhes sobre as novas implementações desta versão</summary>

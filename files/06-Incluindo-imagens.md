@@ -6,24 +6,24 @@
 &nbsp;     
 **1. Adicionando uma imagem**  
 ---
-###### >> Marcação  
+#### :black_medium_small_square: Marcação  
 ```markdown
 ![Descrição da imagem: aparece uma ilustração com o OctoCat, um polvo-gato estilizado que é o mascote do GitHub #pratodosverem.](https://github.githubassets.com/images/modules/logos_page/Octocat.png "OctoCat, o mascote do Github" )
 ```
   *Obs: O espaço com texto, entre os colchetes, refere-se ao atributo alt (aka texto alternativo); já a frase que vai no final, refere-se ao atributo title.*  
   
-###### >> Renderização
+#### :black_medium_small_square: Renderização
 ![Descrição da imagem: aparece uma ilustração com o OctoCat, um polvo-gato estilizado que é o mascote do GitHub #PraTodosVerem.](https://github.githubassets.com/images/modules/logos_page/Octocat.png "OctoCat, o mascote do Github" )
 &nbsp;
      
 &nbsp;    
 **2. Adicionando emojis**  
 ---
-###### >> Marcação 
+#### :black_medium_small_square: Marcação 
 ```markdown
 Estudando a tarde inteira! :computer: :open_book: :coffee:
 ```
-###### >> Renderização 
+#### :black_medium_small_square: Renderização 
 Estudando a tarde inteira! :computer: :open_book: :coffee:
 
 &nbsp;

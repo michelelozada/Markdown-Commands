@@ -4,7 +4,7 @@
 &nbsp;
      
 &nbsp; 
-##### >> Marcação para inclusão de notas de rodapé abaixo do texto principal:
+#### :black_medium_small_square: Marcação para inclusão de notas de rodapé abaixo do texto principal:
 ```markdown
 "A seguir são apresentadas algumas definições de algoritmo por diferentes autores:
 
@@ -28,7 +28,7 @@
 [^6]: STEINMETZ, Ernesto Henrique Radis & FONTES, Roberto Duarte. Cartilha Lógica de Programação. Editora IFB, 2013. 
 ```
 &nbsp; 
-##### >> A renderização do texto acima:
+#### :black_medium_small_square: A renderização do texto acima:
 "A seguir são apresentadas algumas definições de algoritmo por diferentes autores:
 
 'Um algoritmo é um conjunto de instruções, dispostas em uma sequência lógica, que levam a solução de um problema' (BENEDUZZI e METZ, 2010). [^1]

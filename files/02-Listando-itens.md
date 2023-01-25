@@ -6,7 +6,7 @@
 &nbsp;     
 **1. Lista numerada (aka listas ordenadas)**  
 ---
-###### >> Marcação   
+#### :black_medium_small_square: Marcação   
 ```markdown
 Lista:
    1. Primeiro item 
@@ -14,7 +14,7 @@ Lista:
    1. Terceiro item 
 ```
 
-###### >> Renderização
+#### :black_medium_small_square: Renderização
 Lista:
    1. Primeiro item 
    2. Segundo item 
@@ -24,7 +24,7 @@ Lista:
 &nbsp;    
 **2. Lista de marcadores (aka listas não ordenadas)**  
 ---
-###### >> Marcação  
+#### :black_medium_small_square: Marcação  
 ```markdown
 Lista:
    * Primeiro item 
@@ -40,7 +40,7 @@ Lista:
    - Terceiro item
 ```
   
-###### >> Renderização 
+#### :black_medium_small_square: Renderização 
 Lista:
    * Primeiro item 
    * Segundo item
@@ -52,7 +52,7 @@ Lista:
 ---
 *Obs: Apenas para listas de marcadores*  
 
-###### >> Marcação   
+#### :black_medium_small_square: Marcação   
 ```markdown
 Lista:
 - Primeiro item 
@@ -65,7 +65,7 @@ Lista:
 - Terceiro item 
 ```
   
-###### >> Renderização
+#### :black_medium_small_square: Renderização
 Lista:
 - Primeiro item 
 	- Primeiro subitem
@@ -80,7 +80,7 @@ Lista:
 &nbsp;     
 **4. Lista de tarefas**  
 ---
-###### >> Marcação  
+#### :black_medium_small_square: Marcação  
 ```markdown
 Tarefas a realizar
 - [x] Revisar o código
@@ -88,7 +88,7 @@ Tarefas a realizar
 - [ ] Criar o repositório no GH
 - [ ] Subir arquivos para o GH
 ```
-###### >> Renderização
+#### :black_medium_small_square: Renderização
 Tarefas a realizar
 - [x] Revisar o código
 - [x] Atualizar o README

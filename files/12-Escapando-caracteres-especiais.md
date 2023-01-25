@@ -6,21 +6,21 @@
 &nbsp; 
 Caso seja preciso exibir certos caracteres especiais, basta colocar a barra invertida antes (\\). 
 
-###### >> Marcação 
+#### :black_medium_small_square: Marcação 
 ```markdown
 *Aqui os asteriscos não foram escapados*, por isso não serão exibidos na hora da renderização.
 ```
-###### >> Renderização 
+#### :black_medium_small_square: Renderização 
 *Aqui os asteriscos não foram escapados*, por isso não serão exibidos na hora da renderização.
 &nbsp;
      
 &nbsp;  
-###### >> Marcação 
+#### :black_medium_small_square: Marcação 
 ```markdown
-Já aqui, como você pode reparar, \* os asteriscos estão sendo exibidos\*, graças à inclusão das barras invertidas.
+Já aqui, como você pode reparar, \* os asteriscos estão sendo exibidos \*, graças à inclusão das barras invertidas.
 ```
-###### >> Renderização 
-Já aqui, como você pode reparar, \* os asteriscos estão sendo exibidos\*, graças à inclusão das barras invertidas.
+#### :black_medium_small_square: Renderização 
+Já aqui, como você pode reparar, \* os asteriscos estão sendo exibidos \*, graças à inclusão das barras invertidas.
 
 &nbsp;
 

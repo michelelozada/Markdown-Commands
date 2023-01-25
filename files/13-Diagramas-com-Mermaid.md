@@ -11,7 +11,7 @@ Os vários modelos disponíveis de fluxogramas, diagramas UML, pie charts, etc. 
      
 &nbsp;      
 :arrow_forward: **Exemplo 1 -** Criação de um diagrama de sequência baseado [neste exemplo aqui](https://www.qconcursos.com/questoes-de-concursos/questoes/0c70b814-09):    
-##### >> Marcação para a criação do diagrama:
+#### :black_medium_small_square: Marcação para a criação do diagrama:
 ````
 ```mermaid
 sequenceDiagram
@@ -28,7 +28,7 @@ sequenceDiagram
 ```
 ````
 &nbsp; 
-##### >> A renderização do código acima:
+#### :black_medium_small_square: A renderização do código acima:
 ```mermaid
 sequenceDiagram
     Secretária->>Interface: Solicitar matrícula
@@ -46,7 +46,7 @@ sequenceDiagram
      
 &nbsp;      
 :arrow_forward: **Exemplo 2 -** Criação de um fluxograma:    
-##### >> Marcação para a criação do diagrama:
+#### :black_medium_small_square: Marcação para a criação do diagrama:
 ````
 ```mermaid
 flowchart LR
@@ -57,7 +57,7 @@ flowchart LR
     D -->E(Fim)
 ```
 ````
-##### >> A renderização do código acima:
+#### :black_medium_small_square: A renderização do código acima:
 ```mermaid
 flowchart LR
     A(Início) --> B{media >= 7.0}
@@ -70,7 +70,7 @@ flowchart LR
      
 &nbsp;      
 :arrow_forward: **Exemplo 3 -** Criação de um pie chart:    
-##### >> Marcação para a criação do diagrama:
+#### :black_medium_small_square: Marcação para a criação do diagrama:
 ````
 ```mermaid
 pie showData
@@ -80,7 +80,7 @@ pie showData
     "Candidato C" : 25.0
 ```
 ````
-##### >> A renderização do código acima:
+#### :black_medium_small_square: A renderização do código acima:
 ```mermaid
 pie showData
     title Intenção de voto por candidato

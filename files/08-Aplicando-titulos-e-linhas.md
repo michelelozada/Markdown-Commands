@@ -6,7 +6,7 @@
 &nbsp;     
 **1. Aplicando diferentes níveis de título**  
 ---
-###### >> Marcação      
+#### :black_medium_small_square: Marcação      
 ```markdown
 # Título nível 1    
 ## Título nível 2    
@@ -16,7 +16,7 @@
 ###### Título nível 6
 ```
 
-###### >> Renderização
+#### :black_medium_small_square: Renderização
 *Obs: Repare que os títulos de nível 1 e 2 são acompanhados de linhas divisórias*
 # Título nível 1    
 ## Título nível 2    
@@ -30,7 +30,7 @@
 **2. Inserindo linhas horizontais**  
 ---
 Para isto, basta utilizar a seguinte marcação: 
-###### >> Marcação      
+#### :black_medium_small_square: Marcação      
 ```markdown
 ***
 ```
@@ -39,7 +39,7 @@ Ou alternativamente:
 ---
 ```
  
-###### >> Renderização
+#### :black_medium_small_square: Renderização
 ***
 
 &nbsp;
