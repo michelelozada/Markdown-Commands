@@ -19,9 +19,9 @@ Lista:
    1. Primeiro item 
    2. Segundo item 
    3. Terceiro item    
-&nbsp;
      
 &nbsp;    
+
 **2. Lista de marcadores (aka listas não ordenadas)**  
 ---
 #### :black_medium_small_square: Marcação  
@@ -75,9 +75,9 @@ Lista:
 		- Primeiro subsubtitem
 		- Segundo subsubtitem
 - Terceiro item 
+
 &nbsp;
      
-&nbsp;     
 **4. Lista de tarefas**  
 ---
 #### :black_medium_small_square: Marcação  
