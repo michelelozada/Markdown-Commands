@@ -7,19 +7,20 @@
 
 Link   | Tópico 
 :---:  | :---
-[01](https://github.com/michelelozada/Markdown-Commands/blob/main/files/01-Destacando-o-texto.md) | Criando destaques de texto
+[01](https://github.com/michelelozada/Markdown-Commands/blob/main/files/08-Aplicando-titulos-e-linhas.md)| Aplicando níveis de títulos e linha horinzontal
+[09](https://github.com/michelelozada/Markdown-Commands/blob/main/files/09-Quebrando-linhas.md) | Quebrando linhas e espaçando o texto
+[01](https://github.com/michelelozada/Markdown-Commands/blob/main/files/01-Estilizando-textos.md) | Estilizando textos (negrito, italico, etc.)
 [02](https://github.com/michelelozada/Markdown-Commands/blob/main/files/02-Listando-itens.md)| Listando itens
-[03](https://github.com/michelelozada/Markdown-Commands/blob/main/files/03-Exibindo-codigo.md) | Exibindo trechos ou blocos de código
-[04](https://github.com/michelelozada/Markdown-Commands/blob/main/files/04-Texto-como-botao.md)| Estilizando um texto como um botão
+[03](https://github.com/michelelozada/Markdown-Commands/blob/main/files/03-Exibindo-codigo.md) | Exibindo trechos e blocos de código
 [05](https://github.com/michelelozada/Markdown-Commands/blob/main/files/05-Adicionando-links.md) | Adicionando links
 [06](https://github.com/michelelozada/Markdown-Commands/blob/main/files/06-Incluindo-imagens.md)| Incluindo imagens e emojis
 [07](https://github.com/michelelozada/Markdown-Commands/blob/main/files/07-Gerando-tabelas.md) | Gerando tabelas
-[08](https://github.com/michelelozada/Markdown-Commands/blob/main/files/08-Aplicando-titulos-e-linhas.md)| Aplicando títulos e inserindo linhas
-[09](https://github.com/michelelozada/Markdown-Commands/blob/main/files/09-Quebrando-linhas.md) | Quebra de linhas e inclusão de espaços em branco
-[10](https://github.com/michelelozada/Markdown-Commands/blob/main/files/10-Incluindo-notas-rodape.md)| Incluindo notas de rodapé
 [11](https://github.com/michelelozada/Markdown-Commands/blob/main/files/11-Expandindo-retraindo-texto.md)| Expandindo e retraindo um bloco de texto 
+[10](https://github.com/michelelozada/Markdown-Commands/blob/main/files/10-Incluindo-notas-rodape.md)| Incluindo notas de rodapé
 [12](https://github.com/michelelozada/Markdown-Commands/blob/main/files/12-Escapando-caracteres-especiais.md) | Escapando caracteres especiais
+[04](https://github.com/michelelozada/Markdown-Commands/blob/main/files/04-Texto-como-botao.md)| Estilizando um texto como um botão
 [13](https://github.com/michelelozada/Markdown-Commands/blob/main/files/13-Diagramas-com-Mermaid.md)| Elaborando diagramas com a sintaxe Mermaid
+[13](https://github.com/michelelozada/Markdown-Commands/blob/main/files/Citacoes-e-alertas.md)| Criando citações e alertas  
 
 &nbsp;   
  <details>

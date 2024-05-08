@@ -1,12 +1,12 @@
-> **Listando itens via linguagem Markdown**      
+> **Listando itens**      
 > Repositório: Comandos Markdown  
 > GitHub: @michelelozada
 &nbsp;
      
 &nbsp;     
-**1. Lista numerada (aka listas ordenadas)**  
----
-#### :black_medium_small_square: Marcação   
+## 1. Lista numerada/ordenada
+
+#### :black_medium_small_square: A marcação 
 ```markdown
 Lista:
    1. Primeiro item 
@@ -14,7 +14,7 @@ Lista:
    1. Terceiro item 
 ```
 
-#### :black_medium_small_square: Renderização
+#### :black_medium_small_square: A renderização
 Lista:
    1. Primeiro item 
    2. Segundo item 
@@ -22,9 +22,9 @@ Lista:
      
 &nbsp;    
 
-**2. Lista de marcadores (aka listas não ordenadas)**  
----
-#### :black_medium_small_square: Marcação  
+## 2. Lista de marcadores/não ordenada
+
+#### :black_medium_small_square: As marcações possíveis  
 ```markdown
 Lista:
    * Primeiro item 
@@ -39,20 +39,28 @@ Lista:
    - Segundo item
    - Terceiro item
 ```
+
+ou
+
+```markdown
+Lista:
+   + Primeiro item 
+   + Segundo item
+   + Terceiro item
+```
   
-#### :black_medium_small_square: Renderização 
+#### :black_medium_small_square: A renderização 
 Lista:
    * Primeiro item 
    * Segundo item
    * Terceiro item
-&nbsp;
      
-&nbsp;     
-**3. Listas aninhadas**  
----
+&nbsp;  
+
+## 3. Lista aninhada
 *Obs: Apenas para listas de marcadores*  
 
-#### :black_medium_small_square: Marcação   
+#### :black_medium_small_square: A marcação  
 ```markdown
 Lista:
 - Primeiro item 
@@ -65,7 +73,7 @@ Lista:
 - Terceiro item 
 ```
   
-#### :black_medium_small_square: Renderização
+#### :black_medium_small_square: A renderização
 Lista:
 - Primeiro item 
 	- Primeiro subitem
@@ -78,9 +86,9 @@ Lista:
 
 &nbsp;
      
-**4. Lista de tarefas**  
----
-#### :black_medium_small_square: Marcação  
+## 4. Lista de tarefas
+
+#### :black_medium_small_square: A marcação 
 ```markdown
 Tarefas a realizar
 - [x] Revisar o código
@@ -88,7 +96,7 @@ Tarefas a realizar
 - [ ] Criar o repositório no GH
 - [ ] Subir arquivos para o GH
 ```
-#### :black_medium_small_square: Renderização
+#### :black_medium_small_square: A renderização
 Tarefas a realizar
 - [x] Revisar o código
 - [x] Atualizar o README

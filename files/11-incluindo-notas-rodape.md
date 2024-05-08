@@ -1,4 +1,4 @@
-> **Incluindo notas de rodapé através da linguagem Markdown**      
+> **Incluindo notas de rodapé**      
 > Repositório: Comandos Markdown  
 > GitHub: @michelelozada
 &nbsp;
@@ -27,8 +27,13 @@
 [^5]: SALVETTI, D. D. & BARBOSA, L. M. Algoritmos. Makron Books. São Paulo, SP, 2004.
 [^6]: STEINMETZ, Ernesto Henrique Radis & FONTES, Roberto Duarte. Cartilha Lógica de Programação. Editora IFB, 2013. 
 ```
+
 &nbsp; 
-#### :black_medium_small_square: A renderização do texto acima:
+
+#### :black_medium_small_square: Observe abaixo qual a renderização da marcação realizada acima.
+
+&nbsp; 
+
 "A seguir são apresentadas algumas definições de algoritmo por diferentes autores:
 
 'Um algoritmo é um conjunto de instruções, dispostas em uma sequência lógica, que levam a solução de um problema' (BENEDUZZI e METZ, 2010). [^1]
@@ -49,12 +54,3 @@
 [^4]: MANZANO, J. A. N. G. & OLIVEIRA, J. F. Algoritmos. Lógica para Desenvolvimento de Programação de Computadores. Ed. Érica. São Paulo, SP, 2011.
 [^5]: SALVETTI, D. D. & BARBOSA, L. M. Algoritmos. Makron Books. São Paulo, SP, 2004.
 [^6]: STEINMETZ, Ernesto Henrique Radis & FONTES, Roberto Duarte. Cartilha Lógica de Programação. Editora IFB, 2013. 
-
-&nbsp;
-
-<div align="center">
-<a href="https://github.com/michelelozada/Comandos-Markdown">[Voltar à tela inicial do repositório]</a>
-
-&nbsp;
-
-</div>

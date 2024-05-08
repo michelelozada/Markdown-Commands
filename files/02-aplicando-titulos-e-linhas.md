@@ -1,12 +1,12 @@
-> **Aplicando títulos e inserindo linhas**      
+> **Aplicando níveis de títulos e linha horinzontal**      
 > Repositório: Comandos Markdown  
 > GitHub: @michelelozada
 &nbsp;
      
 &nbsp;     
-**1. Aplicando diferentes níveis de título**  
----
-#### :black_medium_small_square: Marcação      
+## 1. Aplicando diferentes níveis de título
+
+#### :black_medium_small_square: A marcação    
 ```markdown
 # Título nível 1    
 ## Título nível 2    
@@ -16,21 +16,20 @@
 ###### Título nível 6
 ```
 
-#### :black_medium_small_square: Renderização
-*Obs: Repare que os títulos de nível 1 e 2 são acompanhados de linhas divisórias*
+#### :black_medium_small_square: A renderização
 # Título nível 1    
 ## Título nível 2    
 ### Título nível 3    
 #### Título nível 4    
 ##### Título nível 5    
 ###### Título nível 6
-&nbsp;
      
 &nbsp;     
-**2. Inserindo linhas horizontais**  
----
+
+## 2. Inserindo linhas horizontais
+
 Para isto, basta utilizar a seguinte marcação: 
-#### :black_medium_small_square: Marcação      
+#### :black_medium_small_square: A marcação       
 ```markdown
 ***
 ```
@@ -39,7 +38,7 @@ Ou alternativamente:
 ---
 ```
  
-#### :black_medium_small_square: Renderização
+#### :black_medium_small_square: A renderização
 ***
 
 &nbsp;

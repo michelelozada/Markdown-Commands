@@ -1,10 +1,10 @@
-> **Expandindo e retraindo um bloco de texto via linguagem Markdown**      
+> **Expandindo e retraindo um bloco de texto**      
 > Repositório: Comandos Markdown  
 > GitHub: @michelelozada
 &nbsp;
      
 &nbsp; 
-#### :black_medium_small_square: Marcação: 
+#### :black_medium_small_square: A marcação: 
 ```markdown
 ## Novas features
 <details>
@@ -18,9 +18,10 @@
 </details>
 ```
 **Observação:** É imprescindível deixar uma linha em branco após a tag `<sumary>`.  
+
 &nbsp;
-&nbsp; 
-#### :black_medium_small_square: Renderização: 
+
+#### :black_medium_small_square: A renderização: 
 ## Novas features
 <details>
   <summary>Clique aqui para ler mais detalhes sobre as novas implementações desta versão</summary>
